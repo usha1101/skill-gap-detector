@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Skill Gap Detector</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Career Skill Gap Detector</h1>
+
+    <form action="/analyze" method="post">
+
+        <label>Select Branch:</label>
+        <select name="branch">
+            <option>Computer Science</option>
+            <option>Mechanical</option>
+            <option>ECE</option>
+            <option>EEE</option>
+            <option>VLSI</option>
+            <option>Civil</option>
+        </select>
+
+        <label>Select Role:</label>
+<select name="role">
+
+<!-- Computer Science -->
+<option>Python Developer</option>
+<option>Backend Developer</option>
+<option>Frontend Developer</option>
+<option>Full Stack Developer</option>
+<option>Data Analyst</option>
+<option>Data Scientist</option>
+<option>AI Engineer</option>
+<option>DevOps Engineer</option>
+<option>Cybersecurity Analyst</option>
+<option>Cloud Engineer</option>
+
+<!-- Mechanical -->
+<option>CAD Engineer</option>
+<option>Design Engineer</option>
+<option>Production Engineer</option>
+<option>Maintenance Engineer</option>
+<option>Thermal Engineer</option>
+<option>Automobile Engineer</option>
+
+<!-- ECE -->
+<option>Embedded Engineer</option>
+<option>IoT Engineer</option>
+<option>Signal Processing Engineer</option>
+<option>Communication Engineer</option>
+<option>Electronics Design Engineer</option>
+
+
+</select>
+
+        <label>Enter Your Skills:</label>
+        <input type="text" name="skills" placeholder="Python, SQL, Git">
+
+        <button type="submit">Analyze</button>
+
+    </form>
+</div>
+
+</body>
+</html>

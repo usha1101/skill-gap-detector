@@ -1,0 +1,156 @@
+{
+  "Computer Science": {
+    "Python Developer": {
+      "skills": ["Python", "OOP", "SQL", "Git", "APIs"],
+      "roadmap": [
+        "Learn Python basics",
+        "Understand OOP concepts",
+        "Practice SQL queries",
+        "Learn REST APIs",
+        "Build backend projects"
+      ]
+    },
+    "Backend Developer": {
+      "skills": ["Python", "Django", "Flask", "SQL", "APIs", "Git"],
+      "roadmap": [
+        "Learn Python",
+        "Learn SQL",
+        "Learn Flask/Django",
+        "Build APIs",
+        "Deploy project"
+      ]
+    },
+    "Frontend Developer": {
+      "skills": ["HTML", "CSS", "JavaScript", "Responsive Design"],
+      "roadmap": [
+        "Learn HTML",
+        "Learn CSS",
+        "Learn JavaScript",
+        "Build UI projects",
+        "Make responsive designs"
+      ]
+    },
+    "Full Stack Developer": {
+      "skills": ["HTML", "CSS", "JavaScript", "Python", "SQL", "APIs"],
+      "roadmap": [
+        "Learn frontend",
+        "Learn backend",
+        "Connect frontend + backend",
+        "Build full stack projects",
+        "Deploy apps"
+      ]
+    },
+    "Data Analyst": {
+      "skills": ["Python", "Pandas", "NumPy", "SQL", "Excel"],
+      "roadmap": [
+        "Learn Excel",
+        "Learn Python",
+        "Learn Pandas",
+        "Practice SQL",
+        "Build dashboards"
+      ]
+    },
+    "Data Scientist": {
+      "skills": ["Python", "Machine Learning", "Statistics", "Pandas"],
+      "roadmap": [
+        "Learn Python",
+        "Learn statistics",
+        "Learn ML basics",
+        "Work on datasets",
+        "Build ML projects"
+      ]
+    },
+    "AI Engineer": {
+      "skills": ["Python", "Deep Learning", "TensorFlow", "PyTorch"],
+      "roadmap": [
+        "Learn Python",
+        "Learn ML",
+        "Learn DL",
+        "Use TensorFlow/PyTorch",
+        "Build AI models"
+      ]
+    },
+    "DevOps Engineer": {
+      "skills": ["Linux", "Docker", "CI/CD", "Git"],
+      "roadmap": [
+        "Learn Linux",
+        "Learn Docker",
+        "Understand CI/CD",
+        "Work with Git",
+        "Deploy apps"
+      ]
+    },
+    "Cybersecurity Analyst": {
+      "skills": ["Networking", "Linux", "Security Tools"],
+      "roadmap": [
+        "Learn networking",
+        "Learn Linux",
+        "Understand security tools",
+        "Practice ethical hacking",
+        "Analyze threats"
+      ]
+    },
+    "Cloud Engineer": {
+      "skills": ["AWS", "Azure", "Cloud Computing"],
+      "roadmap": [
+        "Learn cloud basics",
+        "Learn AWS/Azure",
+        "Deploy cloud apps",
+        "Manage services",
+        "Optimize systems"
+      ]
+    }
+  },
+
+  "Mechanical": {
+    "CAD Engineer": {
+      "skills": ["AutoCAD", "SolidWorks", "GD&T"],
+      "roadmap": ["Learn AutoCAD", "Learn SolidWorks", "Practice designs"]
+    },
+    "Design Engineer": {
+      "skills": ["CAD", "SolidWorks", "ANSYS"],
+      "roadmap": ["Learn CAD", "Learn simulation", "Design systems"]
+    },
+    "Production Engineer": {
+      "skills": ["Manufacturing", "Lean", "Process Optimization"],
+      "roadmap": ["Learn manufacturing", "Understand lean", "Improve processes"]
+    },
+    "Maintenance Engineer": {
+      "skills": ["Mechanical Systems", "Troubleshooting"],
+      "roadmap": ["Learn systems", "Fix issues", "Maintain equipment"]
+    },
+    "Thermal Engineer": {
+      "skills": ["Thermodynamics", "Heat Transfer"],
+      "roadmap": ["Learn thermodynamics", "Study heat transfer"]
+    },
+    "Automobile Engineer": {
+      "skills": ["Automotive Systems", "Engine Design"],
+      "roadmap": ["Learn vehicles", "Study engines"]
+    }
+  },
+
+  "ECE": {
+    "Embedded Engineer": {
+      "skills": ["C", "Microcontrollers", "Embedded Systems"],
+      "roadmap": ["Learn C", "Learn microcontrollers", "Build projects"]
+    },
+    "IoT Engineer": {
+      "skills": ["Sensors", "Networking", "Microcontrollers"],
+      "roadmap": ["Learn sensors", "Learn IoT", "Build IoT projects"]
+    },
+    "Signal Processing Engineer": {
+      "skills": ["Signals", "MATLAB", "DSP"],
+      "roadmap": ["Learn signals", "Use MATLAB"]
+    },
+    "Communication Engineer": {
+      "skills": ["Wireless Communication", "Networking"],
+      "roadmap": ["Learn communication systems"]
+    },
+    "Electronics Design Engineer": {
+      "skills": ["Analog Circuits", "Digital Electronics"],
+      "roadmap": ["Learn circuits", "Design electronics"]
+    }
+  }
+
+
+}
